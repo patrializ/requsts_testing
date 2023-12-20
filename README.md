@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple Python script demonstrating the usage of the `requests` module. It performs basic HTTP requests (GET, POST, PUT, DELETE) using the JSONPlaceholder API.
+This is a simple Python script demonstrating the usage of the `requests` module. It performs basic HTTP requests (`GET`, `POST`, `PUT`, `DELETE`) using the JSONPlaceholder API.
 
 ## Getting Started
 
